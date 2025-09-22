@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="824364e4-d0f4-44cb-b94b-79f53d8ddc9a" name="Changes" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doctor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/doctor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medical_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/medical_history.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moFlaj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ttt0mi/Medical.git&quot;,
+    &quot;accountId&quot;: &quot;b8c4aae9-7200-43b4-9c2c-4763767783b8&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;ttt0mi&quot;,
+    &quot;repository&quot;: &quot;Medical&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30SJPsrADLArvt3BR7ITwdKOcOm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_doctor_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_medical_record_system_has_no_doctors.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_medical_record_system_has_no_patients.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_patient_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_patient_schedule_appointments.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_register_new_doctor_to_medical_record_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_register_new_patient_to_medical_record_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_register_two_doctors_to_medical_record_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_register_two_new_patients_to_medical_record_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_registered_patient_obj_has_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_system_assigns_id_to_doctors_after_registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_system_assigns_id_to_registered_doctors.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to__registered_doctors.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to_registered_doctors.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to_registered_patients.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_medical_record_system.MyTestCase.test_unregistered_patient_obj_has_no_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.appointment_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.appointments_aggregate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.doctor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical_record_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on adebola-mdrs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bisifoley/PycharmProjects/Medical&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/appointment_module" />
+      <recent name="$PROJECT_DIR$/src/records" />
+      <recent name="$PROJECT_DIR$/src/patients" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mrs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_medical_record_system.MyTestCase.test_doctor_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="mrs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_medical_record_system.MyTestCase.test_doctor_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_medical_record_system.MyTestCase.test_patient_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="mrs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_medical_record_system.MyTestCase.test_patient_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_medical_record_system.MyTestCase.test_patient_schedule_appointments" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="mrs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_medical_record_system.MyTestCase.test_patient_schedule_appointments&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to_registered_patients" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="mrs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to_registered_patients&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_medical_record_system.MyTestCase.test_patient_schedule_appointments" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests for test_medical_record_system.MyTestCase.test_patient_id" />
+        <item itemvalue="Python tests.Python tests for test_medical_record_system.MyTestCase.test_doctor_id" />
+        <item itemvalue="Python tests.Python tests for test_medical_record_system.MyTestCase.test_unique_ids_are_assigned_to_registered_patients" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="824364e4-d0f4-44cb-b94b-79f53d8ddc9a" name="Changes" comment="" />
+      <created>1753615020173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753615020173</updated>
+      <workItem from="1753615021393" duration="11711000" />
+      <workItem from="1753640167166" duration="40000" />
+      <workItem from="1753640217895" duration="31981000" />
+      <workItem from="1753708710786" duration="11697000" />
+      <workItem from="1753803080434" duration="18799000" />
+      <workItem from="1753891392296" duration="29069000" />
+      <workItem from="1754060332792" duration="1265000" />
+      <workItem from="1754919440343" duration="527000" />
+      <workItem from="1755471360528" duration="458000" />
+      <workItem from="1755507408638" duration="487000" />
+      <workItem from="1672531646740" duration="217000" />
+      <workItem from="1756870951546" duration="511000" />
+      <workItem from="1757249772502" duration="365000" />
+      <workItem from="1757310426153" duration="505000" />
+    </task>
+    <task id="LOCAL-00001" summary="Doctor likewise the Patient have a field of Appointments, but in patients it is covered by Medical History. Medical Record System has a database of all Doctors and Patients.">
+      <option name="closed" value="true" />
+      <created>1753624992859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753624992860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Doctor likewise the Patient have a field of Appointments, but in patients it is covered by Medical History. Medical Record System has a database of all Doctors and Patients.">
+      <option name="closed" value="true" />
+      <created>1753625076480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753625076480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1753961325728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753961325729</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Doctor likewise the Patient have a field of Appointments, but in patients it is covered by Medical History. Medical Record System has a database of all Doctors and Patients." />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mrs$practice.coverage" NAME="practice Coverage Results" MODIFIED="1753817121388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Medical$medical_record_system.coverage" NAME="medical_record_system Coverage Results" MODIFIED="1753647156732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mrs$medical_record_system.coverage" NAME="medical_record_system Coverage Results" MODIFIED="1753653128290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Medical$appointments_aggregate.coverage" NAME="appointments_aggregate Coverage Results" MODIFIED="1753649099282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appointments_package" />
+    <SUITE FILE_PATH="coverage/mrs$.coverage" NAME=" Coverage Results" MODIFIED="1753964006855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Medical$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1753647329792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Medical$appointment_model.coverage" NAME="appointment_model Coverage Results" MODIFIED="1753648441608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appointments_package" />
+    <SUITE FILE_PATH="coverage/Medical$doctor.coverage" NAME="doctor Coverage Results" MODIFIED="1753652776380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctors" />
+    <SUITE FILE_PATH="coverage/mrs$main.coverage" NAME="main Coverage Results" MODIFIED="1753972308568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
