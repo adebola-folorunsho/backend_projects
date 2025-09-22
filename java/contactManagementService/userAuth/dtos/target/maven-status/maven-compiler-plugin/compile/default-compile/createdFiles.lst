@@ -1,0 +1,4 @@
+com/phaseGateTwo/cms/userauth/dtos/VerifyUserResponse.class
+com/phaseGateTwo/cms/userauth/dtos/SignUpRequest.class
+com/phaseGateTwo/cms/userauth/dtos/OtpValidationRequest.class
+com/phaseGateTwo/cms/userauth/dtos/VerifyUserRequest.class
