@@ -1,2 +1,3 @@
 # backend_projects
-Collection of backend projects exploring APIs, authentication, databases, and server-side development. Node.js, Java, Python, and more.
+A collection of my backend development projects across multiple languages and frameworks.
+This repository serves as a central hub for experimenting with server-side programming, API design, authentication, and database integration
