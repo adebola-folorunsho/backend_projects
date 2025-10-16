@@ -1,4 +1,0 @@
-com/phaseGateTwo/cms/userauth/exceptions/UserAlreadyExistsException.class
-com/phaseGateTwo/cms/userauth/exceptions/InvalidOtpException.class
-com/phaseGateTwo/cms/userauth/exceptions/UserNotFoundException.class
-com/phaseGateTwo/cms/userauth/exceptions/GlobalExceptionHandler.class
